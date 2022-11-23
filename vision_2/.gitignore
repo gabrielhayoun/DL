@@ -1,0 +1,17 @@
+.idea
+.vscode
+.DS_Store
+
+.ipynb_checkpoints
+teacher/*.ipynb
+
+*.egg-info
+*.pyc
+__pycache__
+
+data
+teacher/saved_models
+teacher/data
+!teacher/src/khumeia/data
+
+workspace
